@@ -24,5 +24,5 @@
 
 ## 예시
 ![스크린샷 2020-11-05 오후 11 15 32](https://user-images.githubusercontent.com/42991070/98252167-f46c8f00-1fbc-11eb-8e54-12d9a33f76dd.png)
-![스크린샷 2020-11-05 오후 11 15 16](https://user-images.githubusercontent.com/42991070/98252181-f6cee900-1fbc-11eb-84c0-ac46620e2679.png)
+![스크린샷 2020-11-05 오후 11 15 08](https://user-images.githubusercontent.com/42991070/98252183-f8001600-1fbc-11eb-8377-00b2eab61112.png)
 ![스크린샷 2020-11-05 오후 11 15 08](https://user-images.githubusercontent.com/42991070/98252183-f8001600-1fbc-11eb-8377-00b2eab61112.png)
