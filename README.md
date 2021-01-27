@@ -3,18 +3,22 @@
 
 데이터 분석, 데이터 시각화에 관한 학습 자료입니다.
 
+모든 교육과정의 저작권은 [SuanLab](http://suanlab.com) 에 있습니다.
+
 ## 환경
 - Google Colab
 
 ## 파일 내용
-- 수업 자료
-1. NumPy 한번에 제대로 배우기.ipynb
-2. Pandas 한번에 제대로 배우기.ipynb
-3. Matplotlib 한번에 제대로 배우기.ipynb
-4. Plotly 한번에 제대로 배우기.ipynb
-5. Seaborn 한번에 제대로 배우기.ipynb
-6. Bokeh 한번에 제대로 배우기.ipynb
-7. Folium 한번에 제대로 배우기.ipynb
+- 수업 자료<br>
+&nbsp;&nbsp;&nbsp;[1. NumPy 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=mirZPrWwvao&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS)<br>
+&nbsp;&nbsp;&nbsp;[2. Pandas 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=lG8pEwvYwCw&list=PL7ZVZgsnLwEEZcVusN-fV_sJhQHq833OS&index=2)<br>
+&nbsp;&nbsp;&nbsp;[3. Matplotlib 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=5DfACSYgP0U&list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL&index=5)<br>
+&nbsp;&nbsp;&nbsp;[4. Plotly 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=i-xbj0owgEE&list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL)<br>
+&nbsp;&nbsp;&nbsp;[5. Seaborn 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=gWhwAY5Q9Ec&list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL&index=4)<br>
+&nbsp;&nbsp;&nbsp;[6. Bokeh 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=qt6rtokj7rw&list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL&index=2)<br>
+&nbsp;&nbsp;&nbsp;[7. Folium 한번에 제대로 배우기.ipynb](https://www.youtube.com/watch?v=Jt9nycjTGZs&list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL&index=3)<br>
+&nbsp;&nbsp;&nbsp;[]()<br>
+
 
 - 과제
 1. [과제] NumPy.ipynb
